@@ -1,7 +1,7 @@
 #READ ME
 
 ## Final Project: Portfolio
-## Points: 55 points (40 = portfolio, 15 = presentation)
+## Points: 55 points (40 = portfolia, 15 = presentation)
 
 ### Instructions
 
@@ -116,6 +116,6 @@ Pay attention to detail.
 
 **DO NOT** wait until the last minute.
 
-Play. Explore. Have fun. 
+Play. Explore. Have fun.
 
 Do epic ... stuff. :)
